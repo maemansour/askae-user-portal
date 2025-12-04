@@ -34,6 +34,6 @@ designing a clean, responsive dashboard UI, building reusable components, organi
 ---
 
 ## 📸 Screenshots  
-screenshots/dashboard.png
-screenshots/calllogs.png
-screenshots/integrations.png
+dashboard.png
+calllogs.png
+integrations.png
