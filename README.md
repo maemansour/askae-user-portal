@@ -44,3 +44,4 @@ designing a clean, responsive dashboard UI, building reusable components, organi
 ### Integrations  
 ![Integrations](screenshots/integrations.png)
 
+
